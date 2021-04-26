@@ -11,9 +11,9 @@
 <p align="left">
 <a href="https://codepen.io/eboranbokaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="eboranbokaj" height="30" width="40" /></a>
 <a href="https://dev.to/eboranbokaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eboranbokaj" height="30" width="40" /></a>
-<a href="https://twitter.com/jnarobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="jnarobe" height="30" width="40" /></a>
+<a href="https://twitter.com/JNarobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="jnarobe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/eboran bokaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="eboran bokaj" height="30" width="40" /></a>
-<a href="https://codesandbox.com/eboranbokaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eboranbokaj" height="30" width="40" /></a>
+<a href="https://codesandbox.com/u/EboranBokaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eboranbokaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
